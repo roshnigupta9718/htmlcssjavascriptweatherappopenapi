@@ -1,0 +1,38 @@
+*{
+    padding:0;
+    margin:0
+
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width: 100%;
+
+    max-width: 600px;
+    margin: 0 auto;
+    text-align:center;
+}
+.input{
+    display:flex;
+    justify-content: center;
+    margin-top:50px;
+}
+button{
+    background-color: blue;
+}
+.box{
+    border:1px solid black;
+    height: 600px;
+}
+#icon{
+    font-size: 100px;
+}
+#weather{
+    font-size: medium;
+    font-weight: 900;
+}
+#temparature{
+    font-size: 50px;
+    margin-bottom:100px ;
+}
